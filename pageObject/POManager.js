@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { Login } from './login.js';
+import { Login } from './Login.js';
 
 export class POManager{
 
